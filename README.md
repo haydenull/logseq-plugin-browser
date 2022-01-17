@@ -12,7 +12,7 @@ English | [简体中文](./README-zh_CN.md)
 ## Usage
 1. Install plugin
 2. Fill in plugin configuration
-3. Click "Reload" plugin
+3. Restart Logseq
 
 ## Plugin Configuration
 
