@@ -28,7 +28,7 @@ logseq.ready(() => {
 
   logseq.settings?.buttons?.forEach((btnConfig: IButtonConfig) => {
     logseq.App.registerUIItem('toolbar', {
-      key: btnConfig.icon,
+      key: btnConfig.key,
       template: `<a data-on-click="show" data-faiz-key="${btnConfig.key}" class="button"><i class="ti ${btnConfig.icon}"></i></a>`,
     })
   })
