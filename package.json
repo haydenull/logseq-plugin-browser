@@ -4,7 +4,7 @@
   "main": "dist/index.html",
   "logseq": {
     "id": "logseq-plugin-browser",
-    "icon": "dist/icon.png"
+    "icon": "logo.png"
   },
   "scripts": {
     "dev": "vite",
