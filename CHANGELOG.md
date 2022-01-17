@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/haydenull/logseq-plugin-browser/compare/v1.0.0...v1.0.1) (2022-01-17)
+
+
+### Bug Fixes
+
+* when icon is same, buttons only show ones ([fdf3276](https://github.com/haydenull/logseq-plugin-browser/commit/fdf3276a9cf173c61f87dab2665b82706523e996))
+
 # 1.0.0 (2022-01-17)
 
 
