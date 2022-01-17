@@ -1,4 +1,5 @@
 # logseq-plugin-browser
+> A browser plugin for logseq
 
 [![latest release version](https://img.shields.io/github/v/release/haydenull/logseq-plugin-browser)](https://github.com/haydenull/logseq-plugin-browser/releases)
 [![License](https://img.shields.io/github/license/haydenull/logseq-plugin-browser?color=blue)](https://github.com/haydenull/logseq-plugin-markdown-table/blob/main/LICENSE)
@@ -22,6 +23,7 @@ buttons: toolbar buttons
   - style: Web page container iframe style
 
 use [tablericons](https://tablericons.com/) icon library
+
 example: book icon, icon parameter value is `ti-book`
 
 ## Configuration Example

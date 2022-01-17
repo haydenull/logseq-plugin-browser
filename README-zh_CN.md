@@ -20,6 +20,7 @@ buttons: 显示在顶部的按钮
   - style: 网页容器 iframe 的样式
 
 使用[tablericons](https://tablericons.com/)图标库
+
 例如 book 图标, icon 参数值为 `ti-book`
 
 ## 配置示例
