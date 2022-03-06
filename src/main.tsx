@@ -4,11 +4,18 @@ import ReactDOM from 'react-dom'
 import './index.css'
 import App from './App'
 import { IButtonConfig } from './vite-env'
+import 'antd/dist/antd.css'
+import Settings from './Settings'
 
 // https://tablericons.com/
 logseq.ready(() => {
   console.log('[faiz:] === logseq-plugin-browser loaded ===')
 
+  logseq.App.registerCommandPalette({key: 'logseq-plugin-browser-config', label: 'Modify logseq-plugin-browser config'}, data => {
+    console.log('[faiz:] === registerCommandPalette', data)
+    renderSettings()
+    logseq.showMainUI()
+  })
   logseq.setMainUIInlineStyle({
     position: 'fixed',
     zIndex: 11,
@@ -39,6 +46,15 @@ function renderApp(btnKey: string) {
   ReactDOM.render(
     <React.StrictMode>
       <App btnKey={btnKey} />
+    </React.StrictMode>,
+    document.getElementById('root')
+  )
+}
+// renderSettings()
+function renderSettings() {
+  ReactDOM.render(
+    <React.StrictMode>
+      <Settings />
     </React.StrictMode>,
     document.getElementById('root')
   )
