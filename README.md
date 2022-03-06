@@ -11,16 +11,22 @@ English | [简体中文](./README-zh_CN.md)
 
 ## Usage
 1. Install plugin
-2. Fill in plugin configuration
+2. Open command palette, input `browser`
+3. Select `Modify logseq-plugin-browser config`
+3. Fill in configuration information
 3. Restart LogSeq makes the configuration take effect
+
+Open command palette shortcut:
+- Windows: `Ctrl + Shift + P`
+- Mac: `Cmd + Shift + P`
 
 ## Plugin Configuration
 
 buttons: toolbar buttons
   - key: unique identifier
   - icon: Button icon
-  - href: Web page address
-  - style: Web page container iframe style
+  - url(config file is href): Web page address
+  - style: Web page container iframe style object
 
 use [tablericons](https://tablericons.com/) icon library
 
