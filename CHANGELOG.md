@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/haydenull/logseq-plugin-browser/compare/v1.0.1...v1.1.0) (2022-03-06)
+
+
+### Features
+
+* add settings ui ([51fbc9c](https://github.com/haydenull/logseq-plugin-browser/commit/51fbc9ccbaf2c6206675f0c0bdcb52c745db2ae8))
+
 ## [1.0.1](https://github.com/haydenull/logseq-plugin-browser/compare/v1.0.0...v1.0.1) (2022-01-17)
 
 
