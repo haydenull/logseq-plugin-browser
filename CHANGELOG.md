@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/haydenull/logseq-plugin-browser/compare/v1.1.0...v1.1.1) (2022-03-07)
+
+
+### Bug Fixes
+
+* body background transparent ([04a5c4d](https://github.com/haydenull/logseq-plugin-browser/commit/04a5c4d7fd9e1e9155403a6036a0850828280ba4))
+
 # [1.1.0](https://github.com/haydenull/logseq-plugin-browser/compare/v1.0.1...v1.1.0) (2022-03-06)
 
 
