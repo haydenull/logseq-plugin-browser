@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/haydenull/logseq-plugin-browser/compare/v1.1.1...v1.1.2) (2022-03-07)
+
+
+### Bug Fixes
+
+* overwrite antd body style ([514f3ce](https://github.com/haydenull/logseq-plugin-browser/commit/514f3ce02fd21c4ed4925cdd05fac44cb44c93d5))
+
 ## [1.1.1](https://github.com/haydenull/logseq-plugin-browser/compare/v1.1.0...v1.1.1) (2022-03-07)
 
 
