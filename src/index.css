@@ -2,7 +2,7 @@
 @tailwind utilities;
 
 html, body {
-  background: transparent;
+  background: transparent !important;
 }
 
 .mask {
