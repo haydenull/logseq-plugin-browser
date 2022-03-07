@@ -1,6 +1,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html, body {
+  background: transparent;
+}
+
 .mask {
   position: absolute;
   top: 0;
