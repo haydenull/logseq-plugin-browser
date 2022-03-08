@@ -4,7 +4,6 @@ import ReactDOM from 'react-dom'
 import './index.css'
 import App from './App'
 import { IButtonConfig } from './vite-env'
-import 'antd/dist/antd.css'
 import Settings from './Settings'
 
 // https://tablericons.com/
